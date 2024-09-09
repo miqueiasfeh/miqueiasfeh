@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning studying
 - 💞️ I’m looking to collaborate on back-end
 - 📫 How to reach me: i don`t haver it for now
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I'm learning to program
 
 <!---
